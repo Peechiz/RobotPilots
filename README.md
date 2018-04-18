@@ -1,1 +1,1 @@
-[[https://github.com/peechiz/RobotPilots/blob/master/img/wallhaven-446173.jpg|alt=robot]]
+[[https://github.com/Peechiz/RobotPilots/blob/master/img/wallhaven-446173.jpg|alt=robot]]
