@@ -3,7 +3,7 @@ body {
 }
 
 .jumbotron {
-  background-image: url(./img/wallhaven-446173.jpg);
+  background-image: url("./img/wallhaven-446173.jpg");
   background-size: cover;
   background-position: 0 30%;
 }
